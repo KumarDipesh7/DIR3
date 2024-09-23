@@ -7,4 +7,7 @@ main
 printf("multiplication");
 }
   rem()
+{
+  printf("++++++");
+}
 }
