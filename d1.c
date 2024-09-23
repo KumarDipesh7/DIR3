@@ -2,6 +2,9 @@ main
 {
   add()
   sub()
+{
+  printf("ABC");
+}
   mul()
 {
 printf("multiplication");
