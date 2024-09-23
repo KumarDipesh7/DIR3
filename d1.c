@@ -3,5 +3,8 @@ main
   add()
   sub()
   mul()
+{
+printf("multiplication");
+}
   rem()
 }
