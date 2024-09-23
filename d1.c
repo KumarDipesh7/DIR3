@@ -3,7 +3,7 @@ main
   add()
   sub()
 {
-  printf("ABC");
+  printf("ABCDE");
 }
   mul()
 {
