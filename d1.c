@@ -1,6 +1,8 @@
 main
 {
   add()
+  {
+  printf("Dipesh");
   sub()
   mul()
 {
